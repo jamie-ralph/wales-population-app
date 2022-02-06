@@ -10,16 +10,18 @@ mygrid <- grid_template(
     default = list(
         areas = rbind(
             c("title", "plot", "table"),
+            c("intro", "plot", "table"),
             c("selection", "plot", "table"),
-            c("summary", "plot", "table"),
+            c("user", "plot", "table"),
             c("user", "plot", "table")
         ),
         cols_width = c("300px", "500px", "300px"),
-        rows_height = c("100px", "75px", "200px", "300px")
+        rows_height = c("100px", "100px", "150px", "300px")
     ),
     mobile = list(
         areas = rbind(
             "title",
+            "intro",
             "selection",
             "summary",
             "plot",
@@ -31,6 +33,18 @@ mygrid <- grid_template(
     )
 )
 
+summary_grid <- grid(grid_template = grid_template(
+    default = list(
+        areas = rbind(
+            c("tab"),
+            c("sum")
+        ),
+        rows_height = c("50%", "50%"))),
+    area_styles = list("tab" = "margin-top: 20px; margin-right: 20px", "sum" = "margin-top: -10px; margin-right: 20px"),
+    tab = div(class = "ui raised segment", 
+              div(gt_output("great_table"))),
+    sum = uiOutput("summary"))
+
 ui <- semanticPage(
     tags$head(
         tags$style(
@@ -39,15 +53,22 @@ ui <- semanticPage(
     ),
     grid(
         mygrid,
-        area_styles = list("plot" = "margin: 20px;", "table" = "margin: 20px;"),
+        area_styles = list("plot" = "margin: 20px;"),
         title =
             h2(class = "ui header", "Mid-year population estimates in Wales"),
+        intro = card(
+            style = "border-radius: 0; width: 100%",
+            div(class = "content",
+                div(class = "description",
+                    html(glue("This Shiny app displays population data from
+                       {a('StatsWales', href = 'https://statswales.gov.wales/Catalogue/Population-and-Migration/Population/Estimates/Local-Authority')}.
+                       Select a local authority to see population changes over time."))))
+        ),
         selection = 
             dropdown_input("choice",
             choices = sort(unique(population$area_name)),
             value = "Blaenau Gwent"),
         plot = div(class = "ui raised segment", plotOutput("linePlot")),
-        summary = uiOutput("summary"),
         user = card(
             style = "border-radius: 0; width: 100%; background: #efefef",
             div(class = "content", 
@@ -63,9 +84,7 @@ ui <- semanticPage(
                     )
             )
         ),
-        table = div(class = "ui raised segment",
-            div(gt_output("great_table"))
-        )
+        table = summary_grid
     )
 )
                       
@@ -125,7 +144,7 @@ server <- function(input, output) {
             select(Year = year,
                    Population = pop_estimate) %>%
             arrange(desc(Year)) %>%
-            top_n(10, Year) %>%
+            top_n(5, Year) %>%
             gt() %>%
             fmt_number(columns = Population, decimals = 0) %>%
             opt_table_font(font = google_font("Poppins")) %>%
