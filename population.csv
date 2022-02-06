@@ -1,0 +1,661 @@
+year,age_group,gender,area_code,area_name,pop_estimate
+1991,All ages,Persons,W06000001,Isle of Anglesey,69123
+1991,All ages,Persons,W06000002,Gwynedd,115007
+1991,All ages,Persons,W06000003,Conwy,107951
+1991,All ages,Persons,W06000004,Denbighshire,89395
+1991,All ages,Persons,W06000005,Flintshire,142036
+1991,All ages,Persons,W06000006,Wrexham,124180
+1991,All ages,Persons,W06000008,Ceredigion,65933
+1991,All ages,Persons,W06000009,Pembrokeshire,112446
+1991,All ages,Persons,W06000010,Carmarthenshire,169725
+1991,All ages,Persons,W06000011,Swansea,229743
+1991,All ages,Persons,W06000012,Neath Port Talbot,138844
+1991,All ages,Persons,W06000013,Bridgend,129477
+1991,All ages,Persons,W06000014,Vale of Glamorgan,118053
+1991,All ages,Persons,W06000015,Cardiff,296941
+1991,All ages,Persons,W06000016,Rhondda Cynon Taf,234917
+1991,All ages,Persons,W06000018,Caerphilly,170615
+1991,All ages,Persons,W06000019,Blaenau Gwent,72666
+1991,All ages,Persons,W06000020,Torfaen,90961
+1991,All ages,Persons,W06000021,Monmouthshire,80209
+1991,All ages,Persons,W06000022,Newport,135479
+1991,All ages,Persons,W06000023,Powys,119703
+1991,All ages,Persons,W06000024,Merthyr Tydfil,59594
+1992,All ages,Persons,W06000001,Isle of Anglesey,69379
+1992,All ages,Persons,W06000002,Gwynedd,115426
+1992,All ages,Persons,W06000003,Conwy,107782
+1992,All ages,Persons,W06000004,Denbighshire,89119
+1992,All ages,Persons,W06000005,Flintshire,143493
+1992,All ages,Persons,W06000006,Wrexham,124627
+1992,All ages,Persons,W06000008,Ceredigion,67536
+1992,All ages,Persons,W06000009,Pembrokeshire,113146
+1992,All ages,Persons,W06000010,Carmarthenshire,169265
+1992,All ages,Persons,W06000011,Swansea,229610
+1992,All ages,Persons,W06000012,Neath Port Talbot,138496
+1992,All ages,Persons,W06000013,Bridgend,129796
+1992,All ages,Persons,W06000014,Vale of Glamorgan,117605
+1992,All ages,Persons,W06000015,Cardiff,297429
+1992,All ages,Persons,W06000016,Rhondda Cynon Taf,235202
+1992,All ages,Persons,W06000018,Caerphilly,170129
+1992,All ages,Persons,W06000019,Blaenau Gwent,72592
+1992,All ages,Persons,W06000020,Torfaen,91188
+1992,All ages,Persons,W06000021,Monmouthshire,80207
+1992,All ages,Persons,W06000022,Newport,135515
+1992,All ages,Persons,W06000023,Powys,120368
+1992,All ages,Persons,W06000024,Merthyr Tydfil,59764
+1993,All ages,Persons,W06000001,Isle of Anglesey,69772
+1993,All ages,Persons,W06000002,Gwynedd,115717
+1993,All ages,Persons,W06000003,Conwy,108142
+1993,All ages,Persons,W06000004,Denbighshire,89375
+1993,All ages,Persons,W06000005,Flintshire,144049
+1993,All ages,Persons,W06000006,Wrexham,124949
+1993,All ages,Persons,W06000008,Ceredigion,68854
+1993,All ages,Persons,W06000009,Pembrokeshire,112885
+1993,All ages,Persons,W06000010,Carmarthenshire,169255
+1993,All ages,Persons,W06000011,Swansea,229349
+1993,All ages,Persons,W06000012,Neath Port Talbot,138219
+1993,All ages,Persons,W06000013,Bridgend,130129
+1993,All ages,Persons,W06000014,Vale of Glamorgan,117050
+1993,All ages,Persons,W06000015,Cardiff,299185
+1993,All ages,Persons,W06000016,Rhondda Cynon Taf,235468
+1993,All ages,Persons,W06000018,Caerphilly,170243
+1993,All ages,Persons,W06000019,Blaenau Gwent,72521
+1993,All ages,Persons,W06000020,Torfaen,90899
+1993,All ages,Persons,W06000021,Monmouthshire,81637
+1993,All ages,Persons,W06000022,Newport,135271
+1993,All ages,Persons,W06000023,Powys,121072
+1993,All ages,Persons,W06000024,Merthyr Tydfil,59517
+1994,All ages,Persons,W06000001,Isle of Anglesey,69187
+1994,All ages,Persons,W06000002,Gwynedd,116330
+1994,All ages,Persons,W06000003,Conwy,108891
+1994,All ages,Persons,W06000004,Denbighshire,89572
+1994,All ages,Persons,W06000005,Flintshire,144539
+1994,All ages,Persons,W06000006,Wrexham,125298
+1994,All ages,Persons,W06000008,Ceredigion,69937
+1994,All ages,Persons,W06000009,Pembrokeshire,113086
+1994,All ages,Persons,W06000010,Carmarthenshire,169962
+1994,All ages,Persons,W06000011,Swansea,228239
+1994,All ages,Persons,W06000012,Neath Port Talbot,138597
+1994,All ages,Persons,W06000013,Bridgend,130063
+1994,All ages,Persons,W06000014,Vale of Glamorgan,116850
+1994,All ages,Persons,W06000015,Cardiff,299085
+1994,All ages,Persons,W06000016,Rhondda Cynon Taf,235147
+1994,All ages,Persons,W06000018,Caerphilly,169559
+1994,All ages,Persons,W06000019,Blaenau Gwent,72770
+1994,All ages,Persons,W06000020,Torfaen,90928
+1994,All ages,Persons,W06000021,Monmouthshire,83200
+1994,All ages,Persons,W06000022,Newport,135461
+1994,All ages,Persons,W06000023,Powys,121400
+1994,All ages,Persons,W06000024,Merthyr Tydfil,59346
+1995,All ages,Persons,W06000001,Isle of Anglesey,68426
+1995,All ages,Persons,W06000002,Gwynedd,117526
+1995,All ages,Persons,W06000003,Conwy,108940
+1995,All ages,Persons,W06000004,Denbighshire,89911
+1995,All ages,Persons,W06000005,Flintshire,144844
+1995,All ages,Persons,W06000006,Wrexham,125431
+1995,All ages,Persons,W06000008,Ceredigion,70818
+1995,All ages,Persons,W06000009,Pembrokeshire,112249
+1995,All ages,Persons,W06000010,Carmarthenshire,171060
+1995,All ages,Persons,W06000011,Swansea,227765
+1995,All ages,Persons,W06000012,Neath Port Talbot,137751
+1995,All ages,Persons,W06000013,Bridgend,129466
+1995,All ages,Persons,W06000014,Vale of Glamorgan,116347
+1995,All ages,Persons,W06000015,Cardiff,300764
+1995,All ages,Persons,W06000016,Rhondda Cynon Taf,235553
+1995,All ages,Persons,W06000018,Caerphilly,168186
+1995,All ages,Persons,W06000019,Blaenau Gwent,72569
+1995,All ages,Persons,W06000020,Torfaen,90955
+1995,All ages,Persons,W06000021,Monmouthshire,84315
+1995,All ages,Persons,W06000022,Newport,135140
+1995,All ages,Persons,W06000023,Powys,121843
+1995,All ages,Persons,W06000024,Merthyr Tydfil,58658
+1996,All ages,Persons,W06000001,Isle of Anglesey,68592
+1996,All ages,Persons,W06000002,Gwynedd,117486
+1996,All ages,Persons,W06000003,Conwy,107897
+1996,All ages,Persons,W06000004,Denbighshire,90623
+1996,All ages,Persons,W06000005,Flintshire,144106
+1996,All ages,Persons,W06000006,Wrexham,125527
+1996,All ages,Persons,W06000008,Ceredigion,70609
+1996,All ages,Persons,W06000009,Pembrokeshire,112141
+1996,All ages,Persons,W06000010,Carmarthenshire,171145
+1996,All ages,Persons,W06000011,Swansea,227199
+1996,All ages,Persons,W06000012,Neath Port Talbot,137327
+1996,All ages,Persons,W06000013,Bridgend,128667
+1996,All ages,Persons,W06000014,Vale of Glamorgan,116327
+1996,All ages,Persons,W06000015,Cardiff,305345
+1996,All ages,Persons,W06000016,Rhondda Cynon Taf,235369
+1996,All ages,Persons,W06000018,Caerphilly,167385
+1996,All ages,Persons,W06000019,Blaenau Gwent,72289
+1996,All ages,Persons,W06000020,Torfaen,91268
+1996,All ages,Persons,W06000021,Monmouthshire,85209
+1996,All ages,Persons,W06000022,Newport,134707
+1996,All ages,Persons,W06000023,Powys,123954
+1996,All ages,Persons,W06000024,Merthyr Tydfil,58132
+1997,All ages,Persons,W06000001,Isle of Anglesey,68109
+1997,All ages,Persons,W06000002,Gwynedd,117606
+1997,All ages,Persons,W06000003,Conwy,108174
+1997,All ages,Persons,W06000004,Denbighshire,90616
+1997,All ages,Persons,W06000005,Flintshire,144643
+1997,All ages,Persons,W06000006,Wrexham,125637
+1997,All ages,Persons,W06000008,Ceredigion,71807
+1997,All ages,Persons,W06000009,Pembrokeshire,111640
+1997,All ages,Persons,W06000010,Carmarthenshire,171534
+1997,All ages,Persons,W06000011,Swansea,226764
+1997,All ages,Persons,W06000012,Neath Port Talbot,136679
+1997,All ages,Persons,W06000013,Bridgend,127996
+1997,All ages,Persons,W06000014,Vale of Glamorgan,116950
+1997,All ages,Persons,W06000015,Cardiff,307321
+1997,All ages,Persons,W06000016,Rhondda Cynon Taf,236043
+1997,All ages,Persons,W06000018,Caerphilly,167532
+1997,All ages,Persons,W06000019,Blaenau Gwent,72031
+1997,All ages,Persons,W06000020,Torfaen,91364
+1997,All ages,Persons,W06000021,Monmouthshire,85209
+1997,All ages,Persons,W06000022,Newport,135241
+1997,All ages,Persons,W06000023,Powys,124604
+1997,All ages,Persons,W06000024,Merthyr Tydfil,57371
+1998,All ages,Persons,W06000001,Isle of Anglesey,67692
+1998,All ages,Persons,W06000002,Gwynedd,117384
+1998,All ages,Persons,W06000003,Conwy,108470
+1998,All ages,Persons,W06000004,Denbighshire,90951
+1998,All ages,Persons,W06000005,Flintshire,146261
+1998,All ages,Persons,W06000006,Wrexham,126178
+1998,All ages,Persons,W06000008,Ceredigion,72518
+1998,All ages,Persons,W06000009,Pembrokeshire,111814
+1998,All ages,Persons,W06000010,Carmarthenshire,172039
+1998,All ages,Persons,W06000011,Swansea,225702
+1998,All ages,Persons,W06000012,Neath Port Talbot,136085
+1998,All ages,Persons,W06000013,Bridgend,128652
+1998,All ages,Persons,W06000014,Vale of Glamorgan,118297
+1998,All ages,Persons,W06000015,Cardiff,308601
+1998,All ages,Persons,W06000016,Rhondda Cynon Taf,234474
+1998,All ages,Persons,W06000018,Caerphilly,167921
+1998,All ages,Persons,W06000019,Blaenau Gwent,71292
+1998,All ages,Persons,W06000020,Torfaen,91355
+1998,All ages,Persons,W06000021,Monmouthshire,83921
+1998,All ages,Persons,W06000022,Newport,137328
+1998,All ages,Persons,W06000023,Powys,125438
+1998,All ages,Persons,W06000024,Merthyr Tydfil,57148
+1999,All ages,Persons,W06000001,Isle of Anglesey,67978
+1999,All ages,Persons,W06000002,Gwynedd,116362
+1999,All ages,Persons,W06000003,Conwy,108322
+1999,All ages,Persons,W06000004,Denbighshire,91509
+1999,All ages,Persons,W06000005,Flintshire,146824
+1999,All ages,Persons,W06000006,Wrexham,126907
+1999,All ages,Persons,W06000008,Ceredigion,74046
+1999,All ages,Persons,W06000009,Pembrokeshire,111667
+1999,All ages,Persons,W06000010,Carmarthenshire,172329
+1999,All ages,Persons,W06000011,Swansea,225080
+1999,All ages,Persons,W06000012,Neath Port Talbot,135356
+1999,All ages,Persons,W06000013,Bridgend,128585
+1999,All ages,Persons,W06000014,Vale of Glamorgan,117944
+1999,All ages,Persons,W06000015,Cardiff,310320
+1999,All ages,Persons,W06000016,Rhondda Cynon Taf,233904
+1999,All ages,Persons,W06000018,Caerphilly,168566
+1999,All ages,Persons,W06000019,Blaenau Gwent,71028
+1999,All ages,Persons,W06000020,Torfaen,91129
+1999,All ages,Persons,W06000021,Monmouthshire,83980
+1999,All ages,Persons,W06000022,Newport,136615
+1999,All ages,Persons,W06000023,Powys,125632
+1999,All ages,Persons,W06000024,Merthyr Tydfil,56516
+2000,All ages,Persons,W06000001,Isle of Anglesey,67898
+2000,All ages,Persons,W06000002,Gwynedd,116699
+2000,All ages,Persons,W06000003,Conwy,108651
+2000,All ages,Persons,W06000004,Denbighshire,92525
+2000,All ages,Persons,W06000005,Flintshire,147930
+2000,All ages,Persons,W06000006,Wrexham,127653
+2000,All ages,Persons,W06000008,Ceredigion,74942
+2000,All ages,Persons,W06000009,Pembrokeshire,112538
+2000,All ages,Persons,W06000010,Carmarthenshire,172874
+2000,All ages,Persons,W06000011,Swansea,224475
+2000,All ages,Persons,W06000012,Neath Port Talbot,134834
+2000,All ages,Persons,W06000013,Bridgend,128224
+2000,All ages,Persons,W06000014,Vale of Glamorgan,119276
+2000,All ages,Persons,W06000015,Cardiff,311443
+2000,All ages,Persons,W06000016,Rhondda Cynon Taf,232370
+2000,All ages,Persons,W06000018,Caerphilly,169045
+2000,All ages,Persons,W06000019,Blaenau Gwent,70537
+2000,All ages,Persons,W06000020,Torfaen,91214
+2000,All ages,Persons,W06000021,Monmouthshire,84458
+2000,All ages,Persons,W06000022,Newport,136932
+2000,All ages,Persons,W06000023,Powys,126134
+2000,All ages,Persons,W06000024,Merthyr Tydfil,56218
+2001,All ages,Persons,W06000001,Isle of Anglesey,67806
+2001,All ages,Persons,W06000002,Gwynedd,116844
+2001,All ages,Persons,W06000003,Conwy,109674
+2001,All ages,Persons,W06000004,Denbighshire,93070
+2001,All ages,Persons,W06000005,Flintshire,148629
+2001,All ages,Persons,W06000006,Wrexham,128540
+2001,All ages,Persons,W06000008,Ceredigion,75417
+2001,All ages,Persons,W06000009,Pembrokeshire,113058
+2001,All ages,Persons,W06000010,Carmarthenshire,173652
+2001,All ages,Persons,W06000011,Swansea,223463
+2001,All ages,Persons,W06000012,Neath Port Talbot,134380
+2001,All ages,Persons,W06000013,Bridgend,128735
+2001,All ages,Persons,W06000014,Vale of Glamorgan,119277
+2001,All ages,Persons,W06000015,Cardiff,310088
+2001,All ages,Persons,W06000016,Rhondda Cynon Taf,231910
+2001,All ages,Persons,W06000018,Caerphilly,169546
+2001,All ages,Persons,W06000019,Blaenau Gwent,70000
+2001,All ages,Persons,W06000020,Torfaen,90912
+2001,All ages,Persons,W06000021,Monmouthshire,84984
+2001,All ages,Persons,W06000022,Newport,137642
+2001,All ages,Persons,W06000023,Powys,126398
+2001,All ages,Persons,W06000024,Merthyr Tydfil,56207
+2002,All ages,Persons,W06000001,Isle of Anglesey,67879
+2002,All ages,Persons,W06000002,Gwynedd,117344
+2002,All ages,Persons,W06000003,Conwy,110624
+2002,All ages,Persons,W06000004,Denbighshire,93478
+2002,All ages,Persons,W06000005,Flintshire,148947
+2002,All ages,Persons,W06000006,Wrexham,128595
+2002,All ages,Persons,W06000008,Ceredigion,75500
+2002,All ages,Persons,W06000009,Pembrokeshire,114146
+2002,All ages,Persons,W06000010,Carmarthenshire,174628
+2002,All ages,Persons,W06000011,Swansea,224755
+2002,All ages,Persons,W06000012,Neath Port Talbot,134931
+2002,All ages,Persons,W06000013,Bridgend,129741
+2002,All ages,Persons,W06000014,Vale of Glamorgan,120279
+2002,All ages,Persons,W06000015,Cardiff,312021
+2002,All ages,Persons,W06000016,Rhondda Cynon Taf,231795
+2002,All ages,Persons,W06000018,Caerphilly,170776
+2002,All ages,Persons,W06000019,Blaenau Gwent,69452
+2002,All ages,Persons,W06000020,Torfaen,90700
+2002,All ages,Persons,W06000021,Monmouthshire,85417
+2002,All ages,Persons,W06000022,Newport,138727
+2002,All ages,Persons,W06000023,Powys,127145
+2002,All ages,Persons,W06000024,Merthyr Tydfil,55996
+2003,All ages,Persons,W06000001,Isle of Anglesey,68140
+2003,All ages,Persons,W06000002,Gwynedd,118022
+2003,All ages,Persons,W06000003,Conwy,111248
+2003,All ages,Persons,W06000004,Denbighshire,93872
+2003,All ages,Persons,W06000005,Flintshire,149176
+2003,All ages,Persons,W06000006,Wrexham,128914
+2003,All ages,Persons,W06000008,Ceredigion,75581
+2003,All ages,Persons,W06000009,Pembrokeshire,115147
+2003,All ages,Persons,W06000010,Carmarthenshire,176133
+2003,All ages,Persons,W06000011,Swansea,226350
+2003,All ages,Persons,W06000012,Neath Port Talbot,136233
+2003,All ages,Persons,W06000013,Bridgend,131032
+2003,All ages,Persons,W06000014,Vale of Glamorgan,120980
+2003,All ages,Persons,W06000015,Cardiff,313246
+2003,All ages,Persons,W06000016,Rhondda Cynon Taf,232361
+2003,All ages,Persons,W06000018,Caerphilly,171363
+2003,All ages,Persons,W06000019,Blaenau Gwent,69228
+2003,All ages,Persons,W06000020,Torfaen,90719
+2003,All ages,Persons,W06000021,Monmouthshire,86605
+2003,All ages,Persons,W06000022,Newport,139121
+2003,All ages,Persons,W06000023,Powys,128295
+2003,All ages,Persons,W06000024,Merthyr Tydfil,55955
+2004,All ages,Persons,W06000001,Isle of Anglesey,68753
+2004,All ages,Persons,W06000002,Gwynedd,118721
+2004,All ages,Persons,W06000003,Conwy,112272
+2004,All ages,Persons,W06000004,Denbighshire,94010
+2004,All ages,Persons,W06000005,Flintshire,149681
+2004,All ages,Persons,W06000006,Wrexham,129005
+2004,All ages,Persons,W06000008,Ceredigion,75775
+2004,All ages,Persons,W06000009,Pembrokeshire,116428
+2004,All ages,Persons,W06000010,Carmarthenshire,177487
+2004,All ages,Persons,W06000011,Swansea,228176
+2004,All ages,Persons,W06000012,Neath Port Talbot,137144
+2004,All ages,Persons,W06000013,Bridgend,131947
+2004,All ages,Persons,W06000014,Vale of Glamorgan,122101
+2004,All ages,Persons,W06000015,Cardiff,317099
+2004,All ages,Persons,W06000016,Rhondda Cynon Taf,233971
+2004,All ages,Persons,W06000018,Caerphilly,172361
+2004,All ages,Persons,W06000019,Blaenau Gwent,69242
+2004,All ages,Persons,W06000020,Torfaen,90516
+2004,All ages,Persons,W06000021,Monmouthshire,87829
+2004,All ages,Persons,W06000022,Newport,139316
+2004,All ages,Persons,W06000023,Powys,129568
+2004,All ages,Persons,W06000024,Merthyr Tydfil,56020
+2005,All ages,Persons,W06000001,Isle of Anglesey,69095
+2005,All ages,Persons,W06000002,Gwynedd,118641
+2005,All ages,Persons,W06000003,Conwy,112374
+2005,All ages,Persons,W06000004,Denbighshire,93978
+2005,All ages,Persons,W06000005,Flintshire,149890
+2005,All ages,Persons,W06000006,Wrexham,129249
+2005,All ages,Persons,W06000008,Ceredigion,75485
+2005,All ages,Persons,W06000009,Pembrokeshire,117204
+2005,All ages,Persons,W06000010,Carmarthenshire,178229
+2005,All ages,Persons,W06000011,Swansea,229347
+2005,All ages,Persons,W06000012,Neath Port Talbot,137670
+2005,All ages,Persons,W06000013,Bridgend,132893
+2005,All ages,Persons,W06000014,Vale of Glamorgan,122877
+2005,All ages,Persons,W06000015,Cardiff,321001
+2005,All ages,Persons,W06000016,Rhondda Cynon Taf,234070
+2005,All ages,Persons,W06000018,Caerphilly,172777
+2005,All ages,Persons,W06000019,Blaenau Gwent,69188
+2005,All ages,Persons,W06000020,Torfaen,90644
+2005,All ages,Persons,W06000021,Monmouthshire,88611
+2005,All ages,Persons,W06000022,Newport,139617
+2005,All ages,Persons,W06000023,Powys,130210
+2005,All ages,Persons,W06000024,Merthyr Tydfil,56259
+2006,All ages,Persons,W06000001,Isle of Anglesey,69388
+2006,All ages,Persons,W06000002,Gwynedd,119070
+2006,All ages,Persons,W06000003,Conwy,113004
+2006,All ages,Persons,W06000004,Denbighshire,93983
+2006,All ages,Persons,W06000005,Flintshire,150125
+2006,All ages,Persons,W06000006,Wrexham,130311
+2006,All ages,Persons,W06000008,Ceredigion,75342
+2006,All ages,Persons,W06000009,Pembrokeshire,118278
+2006,All ages,Persons,W06000010,Carmarthenshire,179504
+2006,All ages,Persons,W06000011,Swansea,230793
+2006,All ages,Persons,W06000012,Neath Port Talbot,138323
+2006,All ages,Persons,W06000013,Bridgend,134164
+2006,All ages,Persons,W06000014,Vale of Glamorgan,123642
+2006,All ages,Persons,W06000015,Cardiff,323766
+2006,All ages,Persons,W06000016,Rhondda Cynon Taf,234493
+2006,All ages,Persons,W06000018,Caerphilly,173741
+2006,All ages,Persons,W06000019,Blaenau Gwent,69610
+2006,All ages,Persons,W06000020,Torfaen,90820
+2006,All ages,Persons,W06000021,Monmouthshire,89090
+2006,All ages,Persons,W06000022,Newport,140557
+2006,All ages,Persons,W06000023,Powys,131037
+2006,All ages,Persons,W06000024,Merthyr Tydfil,56627
+2007,All ages,Persons,W06000001,Isle of Anglesey,69700
+2007,All ages,Persons,W06000002,Gwynedd,119398
+2007,All ages,Persons,W06000003,Conwy,113778
+2007,All ages,Persons,W06000004,Denbighshire,94530
+2007,All ages,Persons,W06000005,Flintshire,150816
+2007,All ages,Persons,W06000006,Wrexham,131263
+2007,All ages,Persons,W06000008,Ceredigion,75326
+2007,All ages,Persons,W06000009,Pembrokeshire,119640
+2007,All ages,Persons,W06000010,Carmarthenshire,181314
+2007,All ages,Persons,W06000011,Swansea,232460
+2007,All ages,Persons,W06000012,Neath Port Talbot,138957
+2007,All ages,Persons,W06000013,Bridgend,135949
+2007,All ages,Persons,W06000014,Vale of Glamorgan,124732
+2007,All ages,Persons,W06000015,Cardiff,328196
+2007,All ages,Persons,W06000016,Rhondda Cynon Taf,234471
+2007,All ages,Persons,W06000018,Caerphilly,174987
+2007,All ages,Persons,W06000019,Blaenau Gwent,69685
+2007,All ages,Persons,W06000020,Torfaen,90974
+2007,All ages,Persons,W06000021,Monmouthshire,89592
+2007,All ages,Persons,W06000022,Newport,141376
+2007,All ages,Persons,W06000023,Powys,131982
+2007,All ages,Persons,W06000024,Merthyr Tydfil,57173
+2008,All ages,Persons,W06000001,Isle of Anglesey,69916
+2008,All ages,Persons,W06000002,Gwynedd,119746
+2008,All ages,Persons,W06000003,Conwy,114371
+2008,All ages,Persons,W06000004,Denbighshire,94739
+2008,All ages,Persons,W06000005,Flintshire,151501
+2008,All ages,Persons,W06000006,Wrexham,132371
+2008,All ages,Persons,W06000008,Ceredigion,74971
+2008,All ages,Persons,W06000009,Pembrokeshire,121134
+2008,All ages,Persons,W06000010,Carmarthenshire,182517
+2008,All ages,Persons,W06000011,Swansea,234139
+2008,All ages,Persons,W06000012,Neath Port Talbot,139481
+2008,All ages,Persons,W06000013,Bridgend,137175
+2008,All ages,Persons,W06000014,Vale of Glamorgan,125713
+2008,All ages,Persons,W06000015,Cardiff,332790
+2008,All ages,Persons,W06000016,Rhondda Cynon Taf,234724
+2008,All ages,Persons,W06000018,Caerphilly,176259
+2008,All ages,Persons,W06000019,Blaenau Gwent,69820
+2008,All ages,Persons,W06000020,Torfaen,91094
+2008,All ages,Persons,W06000021,Monmouthshire,90109
+2008,All ages,Persons,W06000022,Newport,142744
+2008,All ages,Persons,W06000023,Powys,132865
+2008,All ages,Persons,W06000024,Merthyr Tydfil,57688
+2009,All ages,Persons,W06000001,Isle of Anglesey,69884
+2009,All ages,Persons,W06000002,Gwynedd,120344
+2009,All ages,Persons,W06000003,Conwy,114623
+2009,All ages,Persons,W06000004,Denbighshire,94444
+2009,All ages,Persons,W06000005,Flintshire,151985
+2009,All ages,Persons,W06000006,Wrexham,133295
+2009,All ages,Persons,W06000008,Ceredigion,74642
+2009,All ages,Persons,W06000009,Pembrokeshire,121563
+2009,All ages,Persons,W06000010,Carmarthenshire,182846
+2009,All ages,Persons,W06000011,Swansea,235601
+2009,All ages,Persons,W06000012,Neath Port Talbot,139537
+2009,All ages,Persons,W06000013,Bridgend,137783
+2009,All ages,Persons,W06000014,Vale of Glamorgan,126162
+2009,All ages,Persons,W06000015,Cardiff,337656
+2009,All ages,Persons,W06000016,Rhondda Cynon Taf,234743
+2009,All ages,Persons,W06000018,Caerphilly,177159
+2009,All ages,Persons,W06000019,Blaenau Gwent,69850
+2009,All ages,Persons,W06000020,Torfaen,91199
+2009,All ages,Persons,W06000021,Monmouthshire,90557
+2009,All ages,Persons,W06000022,Newport,143753
+2009,All ages,Persons,W06000023,Powys,133090
+2009,All ages,Persons,W06000024,Merthyr Tydfil,58156
+2010,All ages,Persons,W06000001,Isle of Anglesey,69833
+2010,All ages,Persons,W06000002,Gwynedd,121155
+2010,All ages,Persons,W06000003,Conwy,114682
+2010,All ages,Persons,W06000004,Denbighshire,94152
+2010,All ages,Persons,W06000005,Flintshire,152080
+2010,All ages,Persons,W06000006,Wrexham,134009
+2010,All ages,Persons,W06000008,Ceredigion,75217
+2010,All ages,Persons,W06000009,Pembrokeshire,121974
+2010,All ages,Persons,W06000010,Carmarthenshire,183004
+2010,All ages,Persons,W06000011,Swansea,237311
+2010,All ages,Persons,W06000012,Neath Port Talbot,139638
+2010,All ages,Persons,W06000013,Bridgend,138471
+2010,All ages,Persons,W06000014,Vale of Glamorgan,126435
+2010,All ages,Persons,W06000015,Cardiff,341402
+2010,All ages,Persons,W06000016,Rhondda Cynon Taf,234459
+2010,All ages,Persons,W06000018,Caerphilly,178101
+2010,All ages,Persons,W06000019,Blaenau Gwent,69798
+2010,All ages,Persons,W06000020,Torfaen,91060
+2010,All ages,Persons,W06000021,Monmouthshire,91016
+2010,All ages,Persons,W06000022,Newport,144803
+2010,All ages,Persons,W06000023,Powys,132878
+2010,All ages,Persons,W06000024,Merthyr Tydfil,58493
+2011,All ages,Persons,W06000001,Isle of Anglesey,69913
+2011,All ages,Persons,W06000002,Gwynedd,121523
+2011,All ages,Persons,W06000003,Conwy,115326
+2011,All ages,Persons,W06000004,Denbighshire,93919
+2011,All ages,Persons,W06000005,Flintshire,152666
+2011,All ages,Persons,W06000006,Wrexham,135070
+2011,All ages,Persons,W06000008,Ceredigion,75293
+2011,All ages,Persons,W06000009,Pembrokeshire,122613
+2011,All ages,Persons,W06000010,Carmarthenshire,183961
+2011,All ages,Persons,W06000011,Swansea,238691
+2011,All ages,Persons,W06000012,Neath Port Talbot,139880
+2011,All ages,Persons,W06000013,Bridgend,139410
+2011,All ages,Persons,W06000014,Vale of Glamorgan,126679
+2011,All ages,Persons,W06000015,Cardiff,345442
+2011,All ages,Persons,W06000016,Rhondda Cynon Taf,234373
+2011,All ages,Persons,W06000018,Caerphilly,178782
+2011,All ages,Persons,W06000019,Blaenau Gwent,69812
+2011,All ages,Persons,W06000020,Torfaen,91190
+2011,All ages,Persons,W06000021,Monmouthshire,91508
+2011,All ages,Persons,W06000022,Newport,145785
+2011,All ages,Persons,W06000023,Powys,133071
+2011,All ages,Persons,W06000024,Merthyr Tydfil,58851
+2012,All ages,Persons,W06000001,Isle of Anglesey,70037
+2012,All ages,Persons,W06000002,Gwynedd,122007
+2012,All ages,Persons,W06000003,Conwy,115553
+2012,All ages,Persons,W06000004,Denbighshire,94053
+2012,All ages,Persons,W06000005,Flintshire,152776
+2012,All ages,Persons,W06000006,Wrexham,135498
+2012,All ages,Persons,W06000008,Ceredigion,75932
+2012,All ages,Persons,W06000009,Pembrokeshire,123135
+2012,All ages,Persons,W06000010,Carmarthenshire,184332
+2012,All ages,Persons,W06000011,Swansea,239460
+2012,All ages,Persons,W06000012,Neath Port Talbot,140081
+2012,All ages,Persons,W06000013,Bridgend,139769
+2012,All ages,Persons,W06000014,Vale of Glamorgan,126998
+2012,All ages,Persons,W06000015,Cardiff,348724
+2012,All ages,Persons,W06000016,Rhondda Cynon Taf,235612
+2012,All ages,Persons,W06000018,Caerphilly,179014
+2012,All ages,Persons,W06000019,Blaenau Gwent,69806
+2012,All ages,Persons,W06000020,Torfaen,91346
+2012,All ages,Persons,W06000021,Monmouthshire,91737
+2012,All ages,Persons,W06000022,Newport,146275
+2012,All ages,Persons,W06000023,Powys,133015
+2012,All ages,Persons,W06000024,Merthyr Tydfil,58907
+2013,All ages,Persons,W06000001,Isle of Anglesey,70073
+2013,All ages,Persons,W06000002,Gwynedd,121653
+2013,All ages,Persons,W06000003,Conwy,115912
+2013,All ages,Persons,W06000004,Denbighshire,94518
+2013,All ages,Persons,W06000005,Flintshire,153223
+2013,All ages,Persons,W06000006,Wrexham,135801
+2013,All ages,Persons,W06000008,Ceredigion,75789
+2013,All ages,Persons,W06000009,Pembrokeshire,123375
+2013,All ages,Persons,W06000010,Carmarthenshire,184669
+2013,All ages,Persons,W06000011,Swansea,240108
+2013,All ages,Persons,W06000012,Neath Port Talbot,139867
+2013,All ages,Persons,W06000013,Bridgend,140536
+2013,All ages,Persons,W06000014,Vale of Glamorgan,127436
+2013,All ages,Persons,W06000015,Cardiff,352146
+2013,All ages,Persons,W06000016,Rhondda Cynon Taf,236166
+2013,All ages,Persons,W06000018,Caerphilly,179230
+2013,All ages,Persons,W06000019,Blaenau Gwent,69764
+2013,All ages,Persons,W06000020,Torfaen,91362
+2013,All ages,Persons,W06000021,Monmouthshire,92249
+2013,All ages,Persons,W06000022,Newport,146741
+2013,All ages,Persons,W06000023,Powys,132786
+2013,All ages,Persons,W06000024,Merthyr Tydfil,59008
+2014,All ages,Persons,W06000001,Isle of Anglesey,70141
+2014,All ages,Persons,W06000002,Gwynedd,121897
+2014,All ages,Persons,W06000003,Conwy,116420
+2014,All ages,Persons,W06000004,Denbighshire,94837
+2014,All ages,Persons,W06000005,Flintshire,153819
+2014,All ages,Persons,W06000006,Wrexham,135953
+2014,All ages,Persons,W06000008,Ceredigion,75133
+2014,All ages,Persons,W06000009,Pembrokeshire,123826
+2014,All ages,Persons,W06000010,Carmarthenshire,184968
+2014,All ages,Persons,W06000011,Swansea,240966
+2014,All ages,Persons,W06000012,Neath Port Talbot,140453
+2014,All ages,Persons,W06000013,Bridgend,141287
+2014,All ages,Persons,W06000014,Vale of Glamorgan,128009
+2014,All ages,Persons,W06000015,Cardiff,354829
+2014,All ages,Persons,W06000016,Rhondda Cynon Taf,236871
+2014,All ages,Persons,W06000018,Caerphilly,179933
+2014,All ages,Persons,W06000019,Blaenau Gwent,69653
+2014,All ages,Persons,W06000020,Torfaen,91549
+2014,All ages,Persons,W06000021,Monmouthshire,92540
+2014,All ages,Persons,W06000022,Newport,147119
+2014,All ages,Persons,W06000023,Powys,132777
+2014,All ages,Persons,W06000024,Merthyr Tydfil,59056
+2015,All ages,Persons,W06000001,Isle of Anglesey,69936
+2015,All ages,Persons,W06000002,Gwynedd,122635
+2015,All ages,Persons,W06000003,Conwy,116450
+2015,All ages,Persons,W06000004,Denbighshire,94836
+2015,All ages,Persons,W06000005,Flintshire,154085
+2015,All ages,Persons,W06000006,Wrexham,135418
+2015,All ages,Persons,W06000008,Ceredigion,74211
+2015,All ages,Persons,W06000009,Pembrokeshire,123671
+2015,All ages,Persons,W06000010,Carmarthenshire,185247
+2015,All ages,Persons,W06000011,Swansea,242316
+2015,All ages,Persons,W06000012,Neath Port Talbot,140946
+2015,All ages,Persons,W06000013,Bridgend,142259
+2015,All ages,Persons,W06000014,Vale of Glamorgan,127980
+2015,All ages,Persons,W06000015,Cardiff,357496
+2015,All ages,Persons,W06000016,Rhondda Cynon Taf,237378
+2015,All ages,Persons,W06000018,Caerphilly,180168
+2015,All ages,Persons,W06000019,Blaenau Gwent,69547
+2015,All ages,Persons,W06000020,Torfaen,91767
+2015,All ages,Persons,W06000021,Monmouthshire,92805
+2015,All ages,Persons,W06000022,Newport,147958
+2015,All ages,Persons,W06000023,Powys,132730
+2015,All ages,Persons,W06000024,Merthyr Tydfil,59247
+2016,All ages,Persons,W06000001,Isle of Anglesey,69665
+2016,All ages,Persons,W06000002,Gwynedd,123323
+2016,All ages,Persons,W06000003,Conwy,116820
+2016,All ages,Persons,W06000004,Denbighshire,94984
+2016,All ages,Persons,W06000005,Flintshire,154626
+2016,All ages,Persons,W06000006,Wrexham,135408
+2016,All ages,Persons,W06000008,Ceredigion,73665
+2016,All ages,Persons,W06000009,Pembrokeshire,124237
+2016,All ages,Persons,W06000010,Carmarthenshire,185754
+2016,All ages,Persons,W06000011,Swansea,244462
+2016,All ages,Persons,W06000012,Neath Port Talbot,141678
+2016,All ages,Persons,W06000013,Bridgend,143408
+2016,All ages,Persons,W06000014,Vale of Glamorgan,128891
+2016,All ages,Persons,W06000015,Cardiff,361168
+2016,All ages,Persons,W06000016,Rhondda Cynon Taf,238179
+2016,All ages,Persons,W06000018,Caerphilly,180453
+2016,All ages,Persons,W06000019,Blaenau Gwent,69630
+2016,All ages,Persons,W06000020,Torfaen,91994
+2016,All ages,Persons,W06000021,Monmouthshire,93276
+2016,All ages,Persons,W06000022,Newport,149478
+2016,All ages,Persons,W06000023,Powys,132337
+2016,All ages,Persons,W06000024,Merthyr Tydfil,59714
+2017,All ages,Persons,W06000001,Isle of Anglesey,69794
+2017,All ages,Persons,W06000002,Gwynedd,123742
+2017,All ages,Persons,W06000003,Conwy,116863
+2017,All ages,Persons,W06000004,Denbighshire,95159
+2017,All ages,Persons,W06000005,Flintshire,155155
+2017,All ages,Persons,W06000006,Wrexham,135571
+2017,All ages,Persons,W06000008,Ceredigion,73076
+2017,All ages,Persons,W06000009,Pembrokeshire,124711
+2017,All ages,Persons,W06000010,Carmarthenshire,186452
+2017,All ages,Persons,W06000011,Swansea,245480
+2017,All ages,Persons,W06000012,Neath Port Talbot,142090
+2017,All ages,Persons,W06000013,Bridgend,144288
+2017,All ages,Persons,W06000014,Vale of Glamorgan,130690
+2017,All ages,Persons,W06000015,Cardiff,362756
+2017,All ages,Persons,W06000016,Rhondda Cynon Taf,239127
+2017,All ages,Persons,W06000018,Caerphilly,180795
+2017,All ages,Persons,W06000019,Blaenau Gwent,69609
+2017,All ages,Persons,W06000020,Torfaen,92264
+2017,All ages,Persons,W06000021,Monmouthshire,93590
+2017,All ages,Persons,W06000022,Newport,151485
+2017,All ages,Persons,W06000023,Powys,132515
+2017,All ages,Persons,W06000024,Merthyr Tydfil,59953
+2018,All ages,Persons,W06000001,Isle of Anglesey,69961
+2018,All ages,Persons,W06000002,Gwynedd,124178
+2018,All ages,Persons,W06000003,Conwy,117181
+2018,All ages,Persons,W06000004,Denbighshire,95330
+2018,All ages,Persons,W06000005,Flintshire,155593
+2018,All ages,Persons,W06000006,Wrexham,136126
+2018,All ages,Persons,W06000008,Ceredigion,72992
+2018,All ages,Persons,W06000009,Pembrokeshire,125055
+2018,All ages,Persons,W06000010,Carmarthenshire,187568
+2018,All ages,Persons,W06000011,Swansea,246466
+2018,All ages,Persons,W06000012,Neath Port Talbot,142906
+2018,All ages,Persons,W06000013,Bridgend,144876
+2018,All ages,Persons,W06000014,Vale of Glamorgan,132165
+2018,All ages,Persons,W06000015,Cardiff,364248
+2018,All ages,Persons,W06000016,Rhondda Cynon Taf,240131
+2018,All ages,Persons,W06000018,Caerphilly,181019
+2018,All ages,Persons,W06000019,Blaenau Gwent,69713
+2018,All ages,Persons,W06000020,Torfaen,93049
+2018,All ages,Persons,W06000021,Monmouthshire,94142
+2018,All ages,Persons,W06000022,Newport,153302
+2018,All ages,Persons,W06000023,Powys,132447
+2018,All ages,Persons,W06000024,Merthyr Tydfil,60183
+2019,All ages,Persons,W06000001,Isle of Anglesey,70043
+2019,All ages,Persons,W06000002,Gwynedd,124560
+2019,All ages,Persons,W06000003,Conwy,117203
+2019,All ages,Persons,W06000004,Denbighshire,95696
+2019,All ages,Persons,W06000005,Flintshire,156100
+2019,All ages,Persons,W06000006,Wrexham,135957
+2019,All ages,Persons,W06000008,Ceredigion,72695
+2019,All ages,Persons,W06000009,Pembrokeshire,125818
+2019,All ages,Persons,W06000010,Carmarthenshire,188771
+2019,All ages,Persons,W06000011,Swansea,246993
+2019,All ages,Persons,W06000012,Neath Port Talbot,143315
+2019,All ages,Persons,W06000013,Bridgend,147049
+2019,All ages,Persons,W06000014,Vale of Glamorgan,133587
+2019,All ages,Persons,W06000015,Cardiff,366903
+2019,All ages,Persons,W06000016,Rhondda Cynon Taf,241264
+2019,All ages,Persons,W06000018,Caerphilly,181075
+2019,All ages,Persons,W06000019,Blaenau Gwent,69862
+2019,All ages,Persons,W06000020,Torfaen,93961
+2019,All ages,Persons,W06000021,Monmouthshire,94590
+2019,All ages,Persons,W06000022,Newport,154676
+2019,All ages,Persons,W06000023,Powys,132435
+2019,All ages,Persons,W06000024,Merthyr Tydfil,60326
+2020,All ages,Persons,W06000001,Isle of Anglesey,70440
+2020,All ages,Persons,W06000002,Gwynedd,125171
+2020,All ages,Persons,W06000003,Conwy,118184
+2020,All ages,Persons,W06000004,Denbighshire,96664
+2020,All ages,Persons,W06000005,Flintshire,156847
+2020,All ages,Persons,W06000006,Wrexham,136055
+2020,All ages,Persons,W06000008,Ceredigion,72895
+2020,All ages,Persons,W06000009,Pembrokeshire,126751
+2020,All ages,Persons,W06000010,Carmarthenshire,190073
+2020,All ages,Persons,W06000011,Swansea,246563
+2020,All ages,Persons,W06000012,Neath Port Talbot,144386
+2020,All ages,Persons,W06000013,Bridgend,147539
+2020,All ages,Persons,W06000014,Vale of Glamorgan,135295
+2020,All ages,Persons,W06000015,Cardiff,369202
+2020,All ages,Persons,W06000016,Rhondda Cynon Taf,241873
+2020,All ages,Persons,W06000018,Caerphilly,181731
+2020,All ages,Persons,W06000019,Blaenau Gwent,70020
+2020,All ages,Persons,W06000020,Torfaen,94832
+2020,All ages,Persons,W06000021,Monmouthshire,95164
+2020,All ages,Persons,W06000022,Newport,156447
+2020,All ages,Persons,W06000023,Powys,133030
+2020,All ages,Persons,W06000024,Merthyr Tydfil,60424
