@@ -1,10 +1,15 @@
 library(shiny)
 library(shiny.semantic)
+library(shiny.router)
 library(tidyverse)
 library(gt)
 library(glue)
 
-population <- read_csv("population.csv")
+# Get data
+population <- read_csv("https://gist.githubusercontent.com/jamie-ralph/7acaab327b7da827894d0bc4af455416/raw/22cac256db12aa63543045a719c3228aa63d7b5b/wales_population.csv") %>%
+    filter(gender == "Persons",
+           age_group == "All ages"
+    )
 
 mygrid <- grid_template(
     default = list(
@@ -16,7 +21,7 @@ mygrid <- grid_template(
             c("user", "plot", "table")
         ),
         cols_width = c("300px", "500px", "300px"),
-        rows_height = c("100px", "100px", "150px", "300px")
+        rows_height = c("100px", "100px", "150px", "130px", "50px")
     ),
     mobile = list(
         areas = rbind(
@@ -39,28 +44,23 @@ summary_grid <- grid(grid_template = grid_template(
             c("tab"),
             c("sum")
         ),
-        rows_height = c("50%", "50%"))),
-    area_styles = list("tab" = "margin-top: 20px; margin-right: 20px", "sum" = "margin-top: -10px; margin-right: 20px"),
+        rows_height = c("55%", "45%"))),
+    area_styles = list("tab" = "padding-top: 20px; padding-right: 20px", "sum" = "padding-top: 0px; padding-right: 20px"),
     tab = div(class = "ui raised segment", 
               div(gt_output("great_table"))),
     sum = uiOutput("summary"))
 
-ui <- semanticPage(
-    tags$head(
-        tags$style(
-            rel = "stylesheet", type="text/css", href="style.css",
-        )
-    ),
+pageOne <- semanticPage(
     grid(
         mygrid,
-        area_styles = list("plot" = "margin: 20px;"),
+        area_styles = list("plot" = "padding: 20px;"),
         title =
             h2(class = "ui header", "Mid-year population estimates in Wales"),
         intro = card(
             style = "border-radius: 0; width: 100%",
             div(class = "content",
                 div(class = "description",
-                    html(glue("This Shiny app displays population data from
+                    html(glue("This plot displays population data from
                        {a('StatsWales', href = 'https://statswales.gov.wales/Catalogue/Population-and-Migration/Population/Estimates/Local-Authority')}.
                        Select a local authority to see population changes over time."))))
         ),
@@ -72,7 +72,7 @@ ui <- semanticPage(
         user = card(
             style = "border-radius: 0; width: 100%; background: #efefef",
             div(class = "content", 
-                div(class = "header", style = "margin-bottom: 10px", 
+                div(class = "header", style = "padding-bottom: 10px", 
                     tags$img(src = "https://media-exp1.licdn.com/dms/image/C4D03AQEtb1ffLbF0Vg/profile-displayphoto-shrink_400_400/0/1643919380964?e=1649894400&v=beta&t=_2FcqCghH_ZjquQ4ptMkNQ_yx9xS8cvYDa7CDVTD4ko", 
                              class = "ui avatar image"), 
                     "Jamie Ralph", 
@@ -87,14 +87,38 @@ ui <- semanticPage(
         table = summary_grid
     )
 )
-                      
 
+about <- div(
+    p(glue("Hello and welcome {emo::ji('smile')}. This Shiny app
+           displays some interesting data about my home country, Wales
+           {emo::ji('dragon')}.")
+    ),
+    br(),
+    html(glue("You can find the source code {a('here.', href = 'https://github.com/jamie-ralph/wales-population-app')}"))
+)
+
+                      
+router <- make_router(
+    route("/", pageOne),
+    route("about", about)
+)
+
+ui <- shiny::fluidPage(
+    theme = "css/main.css",
+    tags$ul(
+        tags$li(a(href = route_link("/"), "Visualisation")),
+        tags$li(a(href = route_link("/about"), "About"))
+    ),
+    router$ui
+)
     
 
 
 
 # Define server logic required to draw a histogram
-server <- function(input, output) {
+server <- function(input, output, session) {
+    
+    router$server(input, output, session)
 
     output$linePlot <- renderPlot({
         
