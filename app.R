@@ -29,12 +29,11 @@ mygrid <- grid_template(
             "title",
             "intro",
             "selection",
-            "summary",
             "plot",
             "table",
             "user"
         ),
-        rows_height = c("50px", "100px", "200px", "200px", "100px"),
+        rows_height = c("50px", "75px", "50px", "500px", "600px", "50px"),
         cols_width = c("100%")
     )
 )
