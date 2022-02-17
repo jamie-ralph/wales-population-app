@@ -1,0 +1,13 @@
+name: wales-shiny-app
+title: wales-shiny-app
+username:
+account: jamie-ralph
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5677124
+bundleId: 5590656
+url: https://jamie-ralph.shinyapps.io/wales-shiny-app/
+when: 1645120382.4193
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_prep.R

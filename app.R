@@ -4,6 +4,7 @@ library(shiny.router)
 library(tidyverse)
 library(gt)
 library(glue)
+library(emo)
 
 # Get data
 population <- read_csv("https://gist.githubusercontent.com/jamie-ralph/7acaab327b7da827894d0bc4af455416/raw/22cac256db12aa63543045a719c3228aa63d7b5b/wales_population.csv") %>%
@@ -20,7 +21,7 @@ mygrid <- grid_template(
             c("user", "plot", "table"),
             c("user", "plot", "table")
         ),
-        cols_width = c("300px", "500px", "300px"),
+        cols_width = c("1fr", "2fr", "1fr"),
         rows_height = c("100px", "100px", "150px", "130px", "50px")
     ),
     mobile = list(
@@ -106,7 +107,7 @@ router <- make_router(
 ui <- shiny::fluidPage(
     theme = "css/main.css",
     tags$ul(
-        tags$li(a(href = route_link("/"), "Visualisation")),
+        tags$li(a(href = route_link("/"), "Population")),
         tags$li(a(href = route_link("/about"), "About"))
     ),
     router$ui
